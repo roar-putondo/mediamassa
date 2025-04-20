@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roar-putondo.github.io/mediamassa/sitemap.xml
